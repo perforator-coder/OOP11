@@ -1,0 +1,8 @@
+C:\Users\Арбуз\source\repos\init\init\bin\Debug\init.exe.config
+C:\Users\Арбуз\source\repos\init\init\bin\Debug\init.exe
+C:\Users\Арбуз\source\repos\init\init\bin\Debug\init.pdb
+C:\Users\Арбуз\source\repos\init\init\obj\Debug\init.csproj.AssemblyReference.cache
+C:\Users\Арбуз\source\repos\init\init\obj\Debug\init.csproj.CoreCompileInputs.cache
+C:\Users\Арбуз\source\repos\init\init\obj\Debug\init.exe
+C:\Users\Арбуз\source\repos\init\init\obj\Debug\init.pdb
+C:\Users\Арбуз\source\repos\init\init\obj\Debug\init.exe.config

@@ -1,0 +1,8 @@
+C:\Users\Арбуз\source\repos\product11.5\product11.5\bin\Debug\product11.5.exe.config
+C:\Users\Арбуз\source\repos\product11.5\product11.5\bin\Debug\product11.5.exe
+C:\Users\Арбуз\source\repos\product11.5\product11.5\bin\Debug\product11.5.pdb
+C:\Users\Арбуз\source\repos\product11.5\product11.5\obj\Debug\product11.5.csproj.AssemblyReference.cache
+C:\Users\Арбуз\source\repos\product11.5\product11.5\obj\Debug\product11.5.csproj.CoreCompileInputs.cache
+C:\Users\Арбуз\source\repos\product11.5\product11.5\obj\Debug\product11.5.exe
+C:\Users\Арбуз\source\repos\product11.5\product11.5\obj\Debug\product11.5.pdb
+C:\Users\Арбуз\source\repos\product11.5\product11.5\obj\Debug\product11.5.exe.config

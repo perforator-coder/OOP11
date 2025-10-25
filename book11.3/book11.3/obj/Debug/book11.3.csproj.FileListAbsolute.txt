@@ -1,0 +1,8 @@
+C:\Users\Арбуз\source\repos\book11.3\book11.3\bin\Debug\book11.3.exe.config
+C:\Users\Арбуз\source\repos\book11.3\book11.3\bin\Debug\book11.3.exe
+C:\Users\Арбуз\source\repos\book11.3\book11.3\bin\Debug\book11.3.pdb
+C:\Users\Арбуз\source\repos\book11.3\book11.3\obj\Debug\book11.3.csproj.AssemblyReference.cache
+C:\Users\Арбуз\source\repos\book11.3\book11.3\obj\Debug\book11.3.csproj.CoreCompileInputs.cache
+C:\Users\Арбуз\source\repos\book11.3\book11.3\obj\Debug\book11.3.exe
+C:\Users\Арбуз\source\repos\book11.3\book11.3\obj\Debug\book11.3.pdb
+C:\Users\Арбуз\source\repos\book11.3\book11.3\obj\Debug\book11.3.exe.config

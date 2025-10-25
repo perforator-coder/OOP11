@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u0440\u0431\u0443\u0437\\source\\repos\\product11.5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C8E284-B8A4-4DD5-B383-41957F465EE3}|product11.5\\product11.5.csproj|c:\\users\\\u0430\u0440\u0431\u0443\u0437\\source\\repos\\product11.5\\product11.5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C8E284-B8A4-4DD5-B383-41957F465EE3}|product11.5\\product11.5.csproj|solutionrelative:product11.5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C8E284-B8A4-4DD5-B383-41957F465EE3}|product11.5\\product11.5.csproj|c:\\users\\\u0430\u0440\u0431\u0443\u0437\\source\\repos\\product11.5\\product11.5\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C8E284-B8A4-4DD5-B383-41957F465EE3}|product11.5\\product11.5.csproj|solutionrelative:product11.5\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 121,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "product.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0431\u0443\u0437\\source\\repos\\product11.5\\product11.5\\product.cs",
+              "RelativeDocumentMoniker": "product11.5\\product.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0431\u0443\u0437\\source\\repos\\product11.5\\product11.5\\product.cs",
+              "RelativeToolTip": "product11.5\\product.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowD8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T05:22:51.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0431\u0443\u0437\\source\\repos\\product11.5\\product11.5\\Program.cs",
+              "RelativeDocumentMoniker": "product11.5\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0431\u0443\u0437\\source\\repos\\product11.5\\product11.5\\Program.cs",
+              "RelativeToolTip": "product11.5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T05:22:30.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
